@@ -245,8 +245,8 @@ The type of material: The type of material that the part is made of will determi
 The size of the part: The size of the part will also affect the cooling process. Large parts will take longer to cool than small parts.
 
 The desired properties: The desired properties of the part will also affect the cooling process. For example, if the part needs to be strong and tough, it should be cooled slowly. If the part needs to be ductile, it can be cooled more quickly.
-### Name:DEEPIKA S
-### Register Number:212222230028
+### Name:SIVARAM R
+### Register Number:212222100050
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
